@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @LoganWa
-- 👀 I’m interested in blockchain, web3.0, AI agent
-- 🌱 I’m currently learning python, linux
-- 💞️ I’m looking to collaborate on projects about smart contract.
+- 👋 Hi, I’m @LoganW
+- 👀 I’m interested in AI agent, web3.0
+- 🌱 Investment professional with 10 years of experience in private fund trading and investment support.
+I use Python and AI-assisted coding tools to build prototypes for market data analysis, transaction workflow automation, and investment decision support.
+- 💞️ My projects are personal prototypes and research tools. They are not production trading systems and do not execute real-money orders.
 - 📫 How to reach me  logan_wang@yahoo.com
 
 <!---
