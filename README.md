@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LoganW
+- 👋 Hi, I’m CyberY
 - 👀 I’m interested in AI agent, web3.0
 - 🌱 Investment professional with 10 years of experience in private fund trading and investment support.
 I use Python and AI-assisted coding tools to build prototypes for market data analysis, transaction workflow automation, and investment decision support.
